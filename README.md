@@ -1,3 +1,16 @@
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Cloud_Engineering-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Cloud Engineering" />
+  <img src="https://img.shields.io/badge/Linux-Administration-0A2540?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux Administration" />
+  <img src="https://img.shields.io/badge/DevOps-Automation-123456?style=for-the-badge&logo=docker&logoColor=2496ED" alt="DevOps Automation" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Git and GitHub" />
+  <img src="https://img.shields.io/badge/Terraform-Infrastructure_as_Code-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Generative_AI-Learning-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI learning" />
+</p>
+
 # 👋 Welcome to Prod IT Academy
 
 ### ☁️ Cloud | 🚀 DevOps | 🤖 AI | 🛡️ Cloud Security
