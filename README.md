@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Cloud_Engineering-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Cloud Engineering" />
   <img src="https://img.shields.io/badge/Linux-Administration-0A2540?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux Administration" />
