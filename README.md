@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Welcome to Prod IT Academy
 
-<!--
-**proditacademy/proditacademy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ☁️ Cloud | 🚀 DevOps | 🤖 AI | 🛡️ Cloud Security
 
-Here are some ideas to get you started:
+Welcome to **Prod IT Academy**, where we focus on practical technology learning, hands-on projects, and real-world cloud and DevOps skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 What We Explore
+
+- **AWS Cloud:** EC2, S3, VPC, IAM, Lambda and Cloud Architecture
+- **DevOps:** Git, GitHub, GitLab CI/CD, Docker and Terraform
+- **Cloud Engineering:** Infrastructure, automation, monitoring and security
+- **AI & Generative AI:** AWS Bedrock, LLMs and practical AI use cases
+- **Cloud FinOps:** Cost optimization and cloud resource management
+
+## 🛠️ Our Practical Projects
+
+This GitHub profile will showcase:
+- Hands-on AWS labs and architecture diagrams
+- Linux administration and automation scripts
+- CI/CD pipelines and Infrastructure as Code
+- Cloud deployment projects and documentation
+- Learning resources and student exercises
+
+## 💡 Our Philosophy
+
+**Learn → Build → Experience → Grow**
+
+We believe that practical experience, consistent learning, and real-world problem-solving help learners prepare for careers in technology.
+
+## 🚀 Follow Our Journey
+
+Explore our repositories as we build and document cloud, DevOps, and AI projects.
+
+**Prod IT Academy — Learn by Building.**
